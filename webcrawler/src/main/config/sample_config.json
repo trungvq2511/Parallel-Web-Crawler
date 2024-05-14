@@ -1,0 +1,16 @@
+{
+  "startPages": [
+    "https://fptsoftware.com/"
+  ],
+  "ignoredUrls": [
+    "https://fptsoftware.com/contact-us"
+  ],
+  "ignoredWords": [
+    "^.{1,3}$"
+  ],
+  "parallelism": 4,
+  "maxDepth": 10,
+  "timeoutSeconds": 1,
+  "popularWordCount": 5,
+  "profileOutputPath": "profileData.txt"
+}
